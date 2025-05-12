@@ -27,7 +27,7 @@ Me especialicé en **Análisis de Datos** a través del bootcamp de SoyHenry, do
 ## 📫 Conectemos
 
 📍 **Pereira, Colombia**  
-🌐 [LinkedIn](https://www.linkedin.com/in/www.linkedin.com/in/johnjzapata/)  
+🌐 [LinkedIn](https://www.linkedin.com/in/johnjzapata/)  
 📧 john.jzapata18@gmail.com
 
 > *“Transformo datos en decisiones para generar valor en los negocios.”*
