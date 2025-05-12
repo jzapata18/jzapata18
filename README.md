@@ -2,7 +2,7 @@
 
 🎯 **Analista de Datos | Power BI · Python · SQL Server · Azure**
 
-Soy Ingeniero en Informática con formación en automatización industrial y soporte técnico, y más de 10 años de experiencia liderando procesos operativos y técnicos en Latinoamérica.  
+Soy Ingeniero en Informática con formación en automatización y soporte técnico, y más de 10 años de experiencia liderando procesos operativos y técnicos en Latinoamérica.  
 
 Me especialicé en **Análisis de Datos** a través del bootcamp de SoyHenry, donde desarrollé soluciones de inteligencia de negocios usando herramientas como Power BI, SQL Server, Python y Azure.  
 
@@ -26,7 +26,8 @@ Me especialicé en **Análisis de Datos** a través del bootcamp de SoyHenry, do
 
 ## 📫 Conectemos
 
-- 🌐 [LinkedIn](www.linkedin.com/in/johnjzapata)
-- 📧 john.jzapata18@gmail.com
+📍 **Pereira, Colombia**  
+🌐 [LinkedIn](https://www.linkedin.com/in/www.linkedin.com/in/johnjzapata/)  
+📧 john.jzapata18@gmail.com
 
 > *“Transformo datos en decisiones para generar valor en los negocios.”*
